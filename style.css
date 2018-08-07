@@ -1,0 +1,19 @@
+*{
+    font-family: monospace;
+    margin:5px;
+}
+li{
+    text-decoration: none;
+    list-style-type: none;
+    border-bottom: solid red 1px;
+    margin:10px;
+    padding : 5px;
+}
+ul{
+    margin:15px;
+}
+li:nth-child(even) {background: #ec8383}
+li:nth-child(odd) {background: #f8c3c3}
+
+
+
